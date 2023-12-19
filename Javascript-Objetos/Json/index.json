@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "JavaScript",
+        "preço": 25
+    },
+    {
+        "nome": "PHP",
+        "preço": 15
+    },
+    {
+        "nome": "Java",
+        "preço": 30
+    },
+    {
+        "nome": "Elixir",
+        "preço": 50
+    },
+    {
+        "nome": "Go",
+        "preço": 45
+    },
+    {
+        "nome": "Python",
+        "preço": 20
+    }
+
+]
